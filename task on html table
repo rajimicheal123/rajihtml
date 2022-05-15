@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>htmltable</title>
+        </head>
+            
+        </body>
+        <table>
+            <thead>
+                <tr>
+                    <th>name</th>
+                    <th>age</th>
+                    <th>height</th>
+                    <th>weight
+                        <th>gender</th>
+                    </tr>
+                    <thead>
+                        <tbody>
+                    <tr>
+                        <td>raji micheal</td>
+                        <td>36</td>
+                        <td>6'8</td>
+                        <td>79kg</td>
+                        <td>male</td>
+                        </tr>
+                        <tr>
+                        <td>titilayo kenny</td>
+                        <td>34</td>
+                        <td>4'5</td>
+                        <td>78kg</td>
+                        <td>male
+                    
+                        </td>
+                        </tr>
+                        
+                        <td>jamiu</td>
+                        <td>56</td>                        
+                        <td>5'5</td>
+                        <td>90kg</td>
+                        <td>female</td>
+                        
+                    </td>
+                </tr>
+
+            <td>kamo</td>
+            <td>45</td>
+            <td>6'8</td>
+            <td>80kg</td>
+            <td>male</td>
+
+            </td>
+        </tr>
+        <td>morgan</td>
+        <td>76</td>
+        <td>9'0</td>
+        <td>79kg</td>
+        <td>male</td>
+
+</html>
