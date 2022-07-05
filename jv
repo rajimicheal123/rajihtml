@@ -1,0 +1,66 @@
+// // If  statement
+// let $name = "micheal"
+// if($name == "micheal"){
+//     document.getElementById('head1').innerHTML = "good morning" + $name + "!"
+
+// }
+// //if Else statement
+// let age = 16
+// if(age < 6718){
+// document.getElementById("p2").innerHTML = "you are not an adult"
+// } else{
+// document.getElementById("p2").innerHTML = "you are not an adult  nice one"
+
+// }
+
+// //if Else if statement
+// let maths_grade = 67
+// if(maths_grade  >= 70) {
+//     document.getElementById("p4").innerHTML = "mathematics score :" + maths_grade
+
+// document.getElementById("p3").innerHTML = "Excellent work, keep it up"
+
+// }else if (maths_grade >=60) {
+// document.getElementById("p4").innerHTML = "mathematics score :" + maths_grade
+// document.getElementById("p3").innerHTML = "quite remarkable, just a little more and you are good"
+
+
+// } else if (maths_grade >=50) {
+// document.getElementById("p4").innerHTML = "mathematics score :" + maths_grade
+// document.getElementById("p3").innerHTML = "a fair results you have a good potentials"
+
+
+// // } else {
+// //     document.getElementById("p4").innerHTML =
+// //       "mathematics score :" + maths_grade
+// // document.getElementById("p3").innerHTML = "sorry try again next time"
+
+
+
+// // }
+
+
+// //switch statement
+
+// let fav_drink = prompt ("enter your favourite drink")
+// switch(fav_drink){
+//     case "coca-cola":
+//         document.getElementById("drink").innerHTML = fav_drink + "is a good drink anyway."
+//         break
+//         case "fanta":
+//             document.getElementById("drink").innerHTML = fav_drink + "is really good."
+//             break
+//         case "malt":
+//             document.getElementById("drink").innerHTML = fav_drink + "is a good drink anyway."
+//             break
+//         case "heineken":
+//             document.getElementById("drink").innerHTML = fav_drink + "is a good  drink and not sugery."
+//             break
+//         case "fruit juice":
+//             document.getElementById("drink").innerHTML = fav_drink + "is for the big boys."
+//             break
+//             default:
+//                 document.getElementById("drink").innerHTML = fav_drink + "is a good  for and thats  it."
+
+
+// }
